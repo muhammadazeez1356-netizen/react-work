@@ -1,6 +1,6 @@
 
 import { Link } from "react-router"
-import logo from "../assets/logo-work.WEBP"
+import logo from "/public/logo-work2.webp"
 
 import React from 'react'
 
